@@ -1,0 +1,9 @@
+[ 2024-12-07 23:16:58,085 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-12-07 23:16:58,090 ] 97 werkzeug - INFO -  * Debugger PIN: 911-766-000
+[ 2024-12-07 23:18:15,208 ] 97 werkzeug - INFO - 127.0.0.1 - - [07/Dec/2024 23:18:15] "GET /predict HTTP/1.1" 200 -
+[ 2024-12-07 23:18:23,680 ] 66 root - INFO - Dataframe Gathered
+[ 2024-12-07 23:18:23,770 ] 97 werkzeug - INFO - 127.0.0.1 - - [07/Dec/2024 23:18:23] "POST /predict HTTP/1.1" 200 -
+[ 2024-12-07 23:18:46,466 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\hh\\Desktop\\Diamond Price Prediction Project\\src\\exception.py', reloading
+[ 2024-12-07 23:18:46,467 ] 97 werkzeug - INFO -  * Detected change in 'c:\\users\\hh\\desktop\\diamond price prediction project\\src\\exception.py', reloading
+[ 2024-12-07 23:18:46,486 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\hh\\Desktop\\Diamond Price Prediction Project\\src\\pipelines\\prediction_pipeline.py', reloading
+[ 2024-12-07 23:18:46,486 ] 97 werkzeug - INFO -  * Detected change in 'c:\\users\\hh\\desktop\\diamond price prediction project\\src\\pipelines\\prediction_pipeline.py', reloading
